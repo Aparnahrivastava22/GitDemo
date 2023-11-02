@@ -1,0 +1,7 @@
+2023-08-19 15:29:32,394 :INFO : pytestDemo.BaseClass :Aparna
+2023-08-19 15:29:32,394 :INFO : pytestDemo.BaseClass :rahulshettyacademy
+2023-08-19 15:33:42,323 :INFO : test_editprofie :Aparna
+2023-08-19 15:33:42,323 :INFO : test_editprofie :rahulshettyacademy
+2023-08-29 13:32:22,489 :CRITICAL : pytestDemo.test_logging :critical issue
+2023-08-29 14:29:17,544 :CRITICAL : pytestDemo.test_logging :critical issue
+2023-08-29 14:32:19,566 :CRITICAL : pytestDemo.test_logging :critical issue
